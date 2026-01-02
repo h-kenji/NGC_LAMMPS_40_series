@@ -5,5 +5,6 @@ The modification procedure was quite simple and you can DIY on a Docker image, b
 You can do the same procedure with Singularity, by building an image with --sandbox mode, modifying the same way as explained above, and the building an image from the directory.
 
 PS: An error might show, but the simulation goes on normally after that.
+PS2: I was hoping to upload the .sif image here, but it's too large.
 
 Hope this helps! :D
